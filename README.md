@@ -35,6 +35,6 @@ Deploy the application online
 Aman Kumar Ranout
 
 📧 Email: amanranout53@gmail.com
-🌐 Portfolio: amanranout.xyz
-💼 LinkedIn: Aman Kumar Ranout on LinkedIn
-🐙 GitHub: amanranout on GitHub
+🌐 Portfolio: https://www.amanranout.xyz/
+💼 LinkedIn: https://www.linkedin.com/in/aman-kumar-47a86432a/
+
